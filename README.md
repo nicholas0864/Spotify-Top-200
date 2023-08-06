@@ -1,6 +1,5 @@
 # Spotify Top 200
 
-## Setup
 * Clone this repository to your local machine with `git clone https://github.com/nicholas0864/Spotify-Top-200.git`
 * Install all required python dependencies with `pip install -r requirements.txt`
 * Using the Spotify Developer Console, generate a client ID and client secret.
